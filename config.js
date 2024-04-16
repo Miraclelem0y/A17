@@ -21,10 +21,10 @@ global.prefa = ["."];                                    //Default prefix here. 
 
 
 //
-global.Owner = ["916297175943", "919362639362"];         //If you want singal number so global.Owner = ['916297175943'] Change into your number.
-global.OwnerNumber = ["916297175943", "919362639362"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number.
+global.Owner = ["6288804075817"];         //If you want singal number so global.Owner = ['916297175943'] Change into your number.
+global.OwnerNumber = ["6288804075817"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number.
 global.ownertag = ["916297175943"];
-global.OwnerName = "Kai";
+global.OwnerName = "miracle";
 global.BotName = "A17";
 global.packname = "A17 Bot";                             //Do not change.
 global.author = "By: Kai";                               //Do not change.
@@ -57,24 +57,24 @@ global.ErrorPic = fs.readFileSync("./Assets/pic7.jpg");
 
 
 //
-global.ntilinkytvid = []
-global.ntilinkytch = []
-global.ntilinkig = []
-global.ntilinkfb = []
-global.ntilinktg = []
-global.ntilinktt = []
-global.ntilinktwt = []
-global.ntilinkall = []
-global.nticall = []
-global.ntwame = []
-global.nttoxic = []
-global.ntnsfw = []
-global.ntvirtex = []
-global.rkyt = []
-global.wlcm = []
-global.gcrevoke = []
-global.autorep = []
-global.ntilink = []
+global.ntilinkytvid = ['true']
+global.ntilinkytch = [['true']]
+global.ntilinkig = [['true']]
+global.ntilinkfb = [['true']]
+global.ntilinktg = [['true']]
+global.ntilinktt = [['true']]
+global.ntilinktwt = [['true']]
+global.ntilinkall = [['true']]
+global.nticall = [['true']]
+global.ntwame = [['true']]
+global.nttoxic = [['true']]
+global.ntnsfw = [['true']]
+global.ntvirtex = [['true']]
+global.rkyt = [['true']]
+global.wlcm = [['true']]
+global.gcrevoke = [['true']]
+global.autorep = [['true']]
+global.ntilink = [['true']]
 
 
 //
